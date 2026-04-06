@@ -51,7 +51,7 @@ social-network-links:
   email: "akarm@uom.edu.gr"
   #facebook: areti.karamanou
   github: akaramanou
-  twitter: aretikaramanou
+  #twitter: aretikaramanou
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
   linkedin: areti-karamanou-b9117036
@@ -270,14 +270,6 @@ defaults:
   -
     scope:
       path: ""
-      type: "posts"
-    values:
-      layout: "post"
-      comments: true  # add comments to all blog posts
-      social-share: true # add social media sharing buttons to all blog posts
-  -
-    scope:
-      path: "" # any file that's not a post will be a "page" layout by default
     values:
       layout: "page"
 
