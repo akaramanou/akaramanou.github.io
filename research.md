@@ -23,11 +23,9 @@ permalink: /research/
 
 ## National Programs
 
-### Active
+### Completed
 - **AIGOV** (2022–09/2025) - Ethical AI in Public Sector, ΕΛ.ΙΔ.Ε.Κ., No 2412
 - **eGovCollab** (2025) - Research and Technology Transfer for e-Government, University of Macedonia
-
-### Completed
 - **Εφαρμογή LLMs σε Κυβερνητικά Δεδομένα** (2024) - University of Macedonia, No 82239
 - **Προχωρημένες μέθοδοι βαθιάς μάθησης** (2024) - University of Macedonia, No 82211
 - **Χρήση ΤΝ στην Ηλεκτρονική Συμμετοχή** (2023) - University of Macedonia, No 82046
