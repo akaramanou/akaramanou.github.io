@@ -142,6 +142,10 @@ defaults:
 date_format: "%B %-d, %Y"
 keywords: "AI, research, open data, e-governance, linked data, machine learning"
 
+
+site-css:
+  - "/assets/css/custom-styles.css"
+
 ############################
 # --- Exclude Files --- #
 ############################
