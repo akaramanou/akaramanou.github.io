@@ -11,232 +11,107 @@ permalink: /publications/
 ### Journal Articles (Peer-Reviewed)
 
 #### 2026
-- **Cardiology Knowledge Assessment of Retrieval-Augmented Open versus Proprietary Large Language Models**
-  - Authors: C. Tarabanis, S. Khurshid, A. Karamanou, R. Piperaki, L.A. Mavromatis, A. Hatzimemos, D. Tachmatzidis, C. Bakogiannis, V. Vassilikos, P.T. Ellinor, L. Jankelson, E. Kalampokis
-  - *PLOS Digital Health*, 5(3): e0001029
-  - IF (2024): 7.7 | [Open Access]
+- Tarabanis, C., Khurshid, S., Karamanou, A., Piperaki, R., Mavromatis, L. A., Hatzimemos, A., Tachmatzidis, D., Bakogiannis, C., Vassilikos, V., Ellinor, P. T., Jankelson, L., & Kalampokis, E. (2026). Cardiology knowledge assessment of retrieval-augmented open versus proprietary large language models. *PLOS Digital Health, 5*(3), e0001029. ⭐
 
 #### 2025
-- **Measuring the Empathetic Intelligence of 11 Large Language Models in Addressing Key Queries from Ovarian Cancer Patients**
-  - Authors: A. Laios, M. Quaranta, Y. Tan, A. Karamanou, G. Theophilou, A. Thangavelu, D. De Jong, T. Broadhead, A. Koufman, D. Nugent, E. Kalampokis
-  - *BJOG: An International Journal of Obstetrics and Gynaecology*, Vol.132, pp.101-101
+- Laios, A., Quaranta, M., Tan, Y., Karamanou, A., Theophilou, G., Thangavelu, A., De Jong, D., Broadhead, T., Koufman, A., Nugent, D., & Kalampokis, E. (2025). Measuring the empathetic intelligence of large language models in ovarian cancer queries. *BJOG: An International Journal of Obstetrics and Gynaecology, 132*, 101–101.
 
 #### 2024
-- ⭐ **Explainable Graph Neural Networks: An Application to Open Statistics Knowledge Graphs for Estimating House Prices**
-  - Authors: A. Karamanou, P. Brimos, E. Kalampokis, K. Tarabanis
-  - *Technologies*, 12(8), 128
-  - IF (2023): 4.2 | [Open Access]
+- ⭐ Karamanou, A., Brimos, P., Kalampokis, E., & Tarabanis, K. (2024). Explainable graph neural networks: An application to open statistics knowledge graphs for estimating house prices. *Technologies, 12*(8), 128.
 
 #### 2023
-- **Graph Neural Networks and Open Government Data to Forecast Traffic Flow**
-  - Authors: P. Brimos, A. Karamanou, E. Kalampokis, K. Tarabanis
-  - *Information*, Vol.14, No.4
-  - IF (2023): 2.4 | [Open Access]
+- Brimos, P., Karamanou, A., Kalampokis, E., & Tarabanis, K. (2023). Graph neural networks and open government data to forecast traffic flow. *Information, 14*(4).
 
-- ⭐ **Integrated Statistical Indicators from Scottish Linked Open Government Data**
-  - Authors: A. Karamanou, E. Kalampokis, K. Tarabanis
-  - *Data in Brief*, Vol. 46, 108779
-  - IF (2023): 1.0 | [Open Access]
+- ⭐ Karamanou, A., Kalampokis, E., & Tarabanis, K. (2023). Integrated statistical indicators from Scottish linked open government data. *Data in Brief, 46*, 108779.
 
 #### 2022
-- ⭐ **Linked Open Government Data to Predict and Explain House Prices: The Case of Scottish Statistics Portal**
-  - Authors: A. Karamanou, E. Kalampokis, K. Tarabanis
-  - *Big Data Research*, Vol.30, 100355
-  - IF (2023): 3.5
+- ⭐ Karamanou, A., Kalampokis, E., & Tarabanis, K. (2022). Linked open government data to predict and explain house prices: The case of Scottish statistics portal. *Big Data Research, 30*, 100355.
 
-- ⭐ **Exploring the Quality of Dynamic Open Government Data using Statistical and Machine Learning Methods**
-  - Authors: A. Karamanou, P. Brimos, E. Kalampokis, K. Tarabanis
-  - *Sensors*, Vol.22, No.24:9684
-  - IF (2023): 3.4 | [Open Access]
+- ⭐ Karamanou, A., Brimos, P., Kalampokis, E., & Tarabanis, K. (2022). Exploring the quality of dynamic open government data using statistical and machine learning methods. *Sensors, 22*(24), 9684.
 
-- **Forecasting and Explaining Emergency Department Visits in a Public Hospital**
-  - Authors: S. Petsis, A. Karamanou, E. Kalampokis, K. Tarabanis
-  - *Journal of Intelligent Information Systems*, Vol.59, pp.479-500
-  - IF (2023): 2.3
+- Petsis, S., Karamanou, A., Kalampokis, E., & Tarabanis, K. (2022). Forecasting and explaining emergency department visits in a public hospital. *Journal of Intelligent Information Systems, 59*, 479–500.
 
 #### 2019
-- **Interoperability Conflicts in Linked Open Statistical Data**
-  - Authors: E. Kalampokis, A. Karamanou, K. Tarabanis
-  - *Information*, Vol.10, No.8, 249
-  - CiteScore (2018): 1.88 (Q2) | [Open Access]
+- Kalampokis, E., Karamanou, A., & Tarabanis, K. (2019). Interoperability conflicts in linked open statistical data. *Information, 10*(8), 249.
 
 #### 2017
-- **On Predicting Election Results using Twitter and Linked Open Data: The Case of the UK 2010 Election**
-  - Authors: E. Kalampokis, A. Karamanou, E. Tambouris, K. Tarabanis
-  - *Journal of Universal Computer Science*, Vol.23, No.3, pp.280-303
-  - IF (2018): 0.91
+- Kalampokis, E., Karamanou, A., Tambouris, E., & Tarabanis, K. (2017). On predicting election results using Twitter and linked open data: The case of the UK 2010 election. *Journal of Universal Computer Science, 23*(3), 280–303.
 
 #### 2016
-- **Applying Brand Equity Theory to Understand the Opinion of Consumers in Social Media**
-  - Authors: E. Kalampokis, A. Karamanou, E. Tambouris, K. Tarabanis
-  - *Journal of Universal Computer Science*, Vol.22, No.5, pp.709-734
-  - IF (2018): 0.91
+- Kalampokis, E., Karamanou, A., Tambouris, E., & Tarabanis, K. (2016). Applying brand equity theory to understand consumer opinion in social media. *Journal of Universal Computer Science, 22*(5), 709–734.
 
 ---
 
-### Conference Papers (Peer-Reviewed & Published Proceedings)
+### Conference Papers (Peer-Reviewed & Proceedings)
 
 #### 2026
-- **AI-Driven Dialogue Systems for Personalized Information Provision in eGovernment: The Case of MITOS Dialogues**
-  - Authors: E. Tambouris, R. Promikyridis, C.F. Patsouris, D. Zeginis, A. Karamanou, E. Kalampokis, K. Tarabanis, M. Johannessen, L. Berntzen
-  - *Novel and Intelligent Digital Systems: Proceedings of the 5th International Conference (NiDS 2025)*
-  - Springer, LNCS Vol. 1707, pp.171-182
+- Tambouris, E., Promikyridis, R., Patsouris, C. F., Zeginis, D., Karamanou, A., Kalampokis, E., Tarabanis, K., Johannessen, M., & Berntzen, L. (2026). AI-driven dialogue systems for personalized information provision in eGovernment: The case of MITOS dialogues. In *Proceedings of NiDS 2025* (pp. 171–182). Springer.
 
 #### 2025
-- ⭐ **Evaluating Open and Proprietary Large Language Models in Law Interpretation: The Case of the EU VAT Directive**
-  - Authors: A. Karamanou, E. Kalampokis, F. Fitsilis, G. Theodorakopoulos, K. Tarabanis
-  - *IFIP EGOV-CeDEM-ePart 2025 (EGOV2025)*
-  - Springer, LNCS, pp.380-394
+- ⭐ Karamanou, A., Kalampokis, E., Fitsilis, F., Theodorakopoulos, G., & Tarabanis, K. (2025). Evaluating open and proprietary large language models in law interpretation: The case of the EU VAT directive. In *Proceedings of EGOV 2025* (pp. 380–394). Springer.
 
 #### 2024
-- **Evaluating Large Language Models in Interaction with Open Government Data**
-  - Authors: I. Maslaris, A. Karamanou, E. Kalampokis, K. Tarabanis
-  - *28th Pan-Hellenic Conference on Progress in Computing and Informatics (PCI 2024)*
-  - ACM, pp.26-33
+- Maslaris, I., Karamanou, A., Kalampokis, E., & Tarabanis, K. (2024). Evaluating large language models in interaction with open government data. In *PCI 2024* (pp. 26–33). ACM.
 
-- **Fostering Multilingual Deliberation through Generative Artificial Intelligence**
-  - Authors: E. Kalampokis, N. Karacapilidis, A. Karamanou, K. Tarabanis
-  - *IFIP EGOV-CeDEM-ePart 2024 (EGOV2024)*
-  - CEUR, Vol.3737
+- Kalampokis, E., Karacapilidis, N., Karamanou, A., & Tarabanis, K. (2024). Fostering multilingual deliberation through generative artificial intelligence. In *EGOV 2024*. CEUR.
 
-- **Deep Learning Missing Value Imputation on Traffic Data Using Self-Attention and GAN-based Methods**
-  - Authors: P. Brimos, P. Seregkos, A. Karamanou, E. Kalampokis, K. Tarabanis
-  - *7th Panhellenic Conference on Electronics and Telecommunications (PACET 2024)*
-  - IEEE, pp.1-4
+- Brimos, P., Seregkos, P., Karamanou, A., Kalampokis, E., & Tarabanis, K. (2024). Deep learning missing value imputation on traffic data using self-attention and GAN-based methods. In *PACET 2024*. IEEE.
 
 #### 2023
-- ⭐ **An Ecosystem for Deploying Artificial Intelligence in Public Administration**
-  - Authors: A. Karamanou, E. Mangou, K. Tarabanis
-  - *International Conference on Electronic Government*, pp.192-207
+- ⭐ Karamanou, A., Mangou, E., & Tarabanis, K. (2023). An ecosystem for deploying artificial intelligence in public administration. In *Proceedings of the International Conference on Electronic Government* (pp. 192–207).
 
-- **Can Large Language Models Revolutionalize Open Government Data Portals? A Case of Using ChatGPT in statistics.gov.scot**
-  - Authors: M. Mamalis, E. Kalampokis, A. Karamanou, P. Brimos, K. Tarabanis
-  - *27th Panhellenic Conference on Progress in Computing and Informatics (PCI 2023)*
-  - ACM, pp.53-59
+- Mamalis, M., Kalampokis, E., Karamanou, A., Brimos, P., & Tarabanis, K. (2023). Can large language models revolutionize open government data portals? In *PCI 2023* (pp. 53–59). ACM.
 
-- **Explainable Graph Neural Networks on Linked Statistical Data for Predicting Scottish House Prices**
-  - Authors: P. Brimos, A. Karamanou, E. Kalampokis, M. Mamalis, K. Tarabanis
-  - *27th Panhellenic Conference on Progress in Computing and Informatics (PCI 2023)*
-  - ACM, pp.36-41
+- Brimos, P., Karamanou, A., Kalampokis, E., Mamalis, M., & Tarabanis, K. (2023). Explainable graph neural networks on linked statistical data. In *PCI 2023* (pp. 36–41). ACM.
 
-- **Traffic Flow Prediction with Swiss Open Data: A Deep Learning Approach**
-  - Authors: P. Brimos, A. Karamanou, E. Kalampokis, K. Tarabanis
-  - *EGOV-CeDEM-ePart 2023*
-  - Springer, LNCS, Vol. 14130
+- Brimos, P., Karamanou, A., Kalampokis, E., & Tarabanis, K. (2023). Traffic flow prediction with Swiss open data. In *EGOV 2023*. Springer.
 
 #### 2022
-- ⭐ **Exploring the Quality of Dynamic Open Government Data for Data Intelligence Applications: The Case of Attica Traffic Data**
-  - Authors: A. Karamanou, P. Brimos, E. Kalampokis, K. Tarabanis
-  - *26th Panhellenic Conference on Informatics (PCI 2022)*
-  - ACM, pp.102-109
+- ⭐ Karamanou, A., Brimos, P., Kalampokis, E., & Tarabanis, K. (2022). Exploring the quality of dynamic open government data for data intelligence applications. In *PCI 2022* (pp. 102–109). ACM.
 
 #### 2021
-- **Applying Explainable Artificial Intelligence Techniques on Linked Open Government Data**
-  - Authors: E. Kalampokis, A. Karamanou, K. Tarabanis
-  - *EGOV-CeDEM-ePart 2021*
-  - Springer, pp.247-258
+- Kalampokis, E., Karamanou, A., & Tarabanis, K. (2021). Applying explainable artificial intelligence techniques on linked open government data. In *EGOV 2021* (pp. 247–258). Springer.
 
 #### 2019
-- **Towards Interoperable Open Statistical Data**
-  - Authors: E. Kalampokis, A. Karamanou, K. Tarabanis
-  - *EGOV-CeDEM-ePart 2019*
-  - Springer, LNCS 11685, pp.180-191
+- Kalampokis, E., Karamanou, A., & Tarabanis, K. (2019). Towards interoperable open statistical data. In *EGOV 2019* (pp. 180–191). Springer.
 
 #### 2018
-- **Combining Statistical Data for Machine Learning Analysis**
-  - Authors: E. Kalampokis, A. Karamanou, K. Tarabanis
-  - *6th International Workshop on Semantic Statistics (SemStats2018) co-located with ISWC2018*
-  - CEUR-WS Vol.2317
+- Kalampokis, E., Karamanou, A., & Tarabanis, K. (2018). Combining statistical data for machine learning analysis. In *SemStats 2018*. CEUR.
 
 #### 2017
-- ⭐ **Fostering Active Participation of Young People in Democratic Life: A Case Study Using the #ask Dashboard**
-  - Authors: A. Karamanou, E. Panopoulou, V. Cipan, D. Čengija, D. Jelić, E. Tambouris, K. Tarabanis
-  - *International Conference on e-Democracy*, 14-15 December 2017, Athens
-  - Springer
+- ⭐ Karamanou, A., Panopoulou, E., Cipan, V., Čengija, D., Jelić, D., Tambouris, E., & Tarabanis, K. (2017). Fostering active participation of young people in democratic life. In *e-Democracy 2017*. Springer.
 
 #### 2016
-- ⭐ **Linked data cubes: Research results so far**
-  - Authors: A. Karamanou, E. Kalampokis, E. Tambouris, K. Tarabanis
-  - *SemStats2016 @ ISWC2016*, 17-21 October 2016, Kobe, Japan
-  - CEUR-WS, Vol.1654
+- ⭐ Karamanou, A., Kalampokis, E., Tambouris, E., & Tarabanis, K. (2016). Linked data cubes: Research results so far. In *SemStats 2016*. CEUR.
 
-- **Open Statistics: The Rise of a new Era for Open Data?**
-  - Authors: E. Kalampokis, E. Tambouris, A. Karamanou, K. Tarabanis
-  - *15th IFIP WG 8.5 International Conference on Electronic Government (EGOV2016)*
-  - Springer, LNCS 9820, pp.31-43
+- Kalampokis, E., Tambouris, E., Karamanou, A., & Tarabanis, K. (2016). Open statistics: The rise of a new era for open data. In *EGOV 2016* (pp. 31–43). Springer.
 
 #### 2015
-- ⭐ **Towards Exploiting Linked Open Governmental Statistical Data**
-  - Authors: A. Karamanou
-  - *EGOV & ePart 2015 Joint Proceedings*
-  - IOS Press, Vol. 22, pp.319-326
+- ⭐ Karamanou, A. (2015). Towards exploiting linked open governmental statistical data. In *EGOV & ePart 2015 Joint Proceedings* (pp. 319–326). IOS Press.
 
-- **Challenges on Developing Tools for Exploiting Linked Open Data Cubes**
-  - Authors: E. Kalampokis, B. Roberts, A. Karamanou, E. Tambouris, K. Tarabanis
-  - *3rd International Workshop on Semantic Statistics (SemStats2015) @ ISWC2015*
-  - CEUR-WS Vol.1551
+- Kalampokis, E., Roberts, B., Karamanou, A., Tambouris, E., & Tarabanis, K. (2015). Challenges on developing tools for exploiting linked open data cubes. In *SemStats 2015*. CEUR.
 
 #### 2014
-- **Creating and Utilizing Linked Open Statistical Data for the Development of Advanced Analytics Services**
-  - Authors: E. Kalampokis, A. Karamanou, A. Nikolov, P. Haase, R. Cyganiak, B. Roberts, P. Hermans, E. Tambouris, K. Tarabanis
-  - *2nd International Workshop on Semantic Statistics (SemStats2014) @ ISWC2014*
-  - CEUR-WS Vol.1550
+- Kalampokis, E., Karamanou, A., Nikolov, A., Haase, P., Cyganiak, R., Roberts, B., Hermans, P., Tambouris, E., & Tarabanis, K. (2014). Creating and utilizing linked open statistical data. In *SemStats 2014*. CEUR.
 
-- **Exploiting Linked Data Cubes with OpenCube Toolkit**
-  - Authors: E. Kalampokis, A. Nikolov, P. Haase, R. Cyganiak, A. Stasiewicz, A. Karamanou, M. Zotou, D. Zeginis, E. Tambouris, K. Tarabanis
-  - *ISWC 2014 Posters and Demos Track*
-  - CEUR-WS Vol.1272
+- Kalampokis, E., Nikolov, A., Haase, P., Cyganiak, R., Stasiewicz, A., Karamanou, A., Zotou, M., Zeginis, D., Tambouris, E., & Tarabanis, K. (2014). Exploiting linked data cubes with OpenCube toolkit. In *ISWC 2014*. CEUR.
 
 #### 2013
-- **Towards a Vocabulary for Incorporating Predictive Models into the Linked Data Web**
-  - Authors: E. Kalampokis, A. Karamanou, E. Tambouris, K. Tarabanis
-  - *1st International Workshop on Semantic Statistics (SemStats2013) @ ISWC2013*
-  - CEUR-WS Vol.1549
+- Kalampokis, E., Karamanou, A., Tambouris, E., & Tarabanis, K. (2013). Towards a vocabulary for incorporating predictive models into the linked data web. In *SemStats 2013*. CEUR.
 
 #### 2011
-- ⭐ **ArgVis: structuring political deliberations using innovative visualisation technologies**
-  - Authors: A. Karamanou, N. Loutas, K. Tarabanis
-  - *Third IFIP WG 8.5 International Conference on Electronic Participation (ePart'11)*
-  - Springer-Verlag, Berlin, pp.87-98
+- ⭐ Karamanou, A., Loutas, N., & Tarabanis, K. (2011). ArgVis: Structuring political deliberations using innovative visualisation technologies. In *ePart 2011* (pp. 87–98). Springer.
 
 ---
 
 ### Conference Abstracts
 
 #### 2025
-- **Evaluating 11 Large Language Models In Answering Key Questions On Ovarian Cancer**
-  - Authors: M. Quaranta, D. De Jong, Y.S. Tan, A. Karamanou, T. Broadhead, A. Thangavelu, A. Koufman, D. Nugent, E. Kalampokis, G. Theophilou, A. Laios
-  - *ESGO 2025 Congress*, 20-23 February 2025, Rome, Italy
-  - *International Journal of Gynecologic Cancer*, Vol.35, Issue 2, Supplement 1, 100323
+- Quaranta, M., De Jong, D., Tan, Y. S., Karamanou, A., Broadhead, T., Thangavelu, A., Koufman, A., Nugent, D., Kalampokis, E., Theophilou, G., & Laios, A. (2025). Evaluating large language models in ovarian cancer queries. *International Journal of Gynecologic Cancer, 35*(Suppl. 1).
 
 ---
 
 ### Other Presentations
 
 #### 2010
-- ⭐ **Εφαρμογή Τεχνολογιών Ανοιχτού Λογισμικού στην Ηλεκτρονική Συμμετοχή** (Application of Open Source Technologies in Electronic Participation)
-  - Author: A. Karamanou
-  - *ΕΛΛΑΚ Conference 2010*, Thessaloniki
-  - Presentation without published proceedings
-
----
-
-## Research Interests
-
-- Open Government Data & Linked Data
-- Large Language Models & AI
-- Graph Neural Networks
-- Data Quality Assessment
-- Machine Learning for Public Administration
-- Explainable AI
-- Democratic Participation & E-Governance
-- Semantic Web Technologies
-- Time Series Forecasting
-
-## Collaboration Networks
-
-Collaborators include researchers from:
-- University of Macedonia, Thessaloniki, Greece
-- Harvard Medical School, Boston, USA
-- University of Edinburgh, UK
-- Multiple international research institutions
+- ⭐ Karamanou, A. (2010). Εφαρμογή τεχνολογιών ανοιχτού λογισμικού στην ηλεκτρονική συμμετοχή. *ΕΛΛΑΚ Conference 2010*, Thessaloniki.
