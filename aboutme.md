@@ -1,16 +1,25 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About
+subtitle: PhD Researcher
+permalink: /aboutme/
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I am **Areti Karamanou**, a PhD researcher based in Thessaloniki, Greece.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+My work focuses on exploiting AI for value creation through Open Government Data.
 
-What else do you need?
+I am currently affiliated with the Information Systems's lab (ISLAB) of the department of Business Administration of the University of Macedonia.
 
-### My story
+## Academic profile
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+You can also find me on:
+
+- [ORCID](https://orcid.org/0000-0003-2357-9169)
+- [Google Scholar](https://scholar.google.com/citations?user=U_LlUDIAAAAJ)
+- [LinkedIn](https://www.linkedin.com/in/areti-karamanou-b9117036)
+- [GitHub](https://github.com/akaramanou)
+
+## Contact
+
+Email: akarm@uom.edu.gr
