@@ -6,7 +6,10 @@ permalink: /research/
 
 ## European Programs
 
+### Active
 - **AI4Deliberation** (2025–2027) - Horizon Europe, GA 101178806
+
+### Completed
 - **inGov** (2021–2024) - H2020-SC6-GOVERNANCE-2020, No 962563
 - **CYBELE** (2019–2020) - H2020-ICT-11-2018, No 825355
 - **OpenGovIntelligence** (2017–2019) - H2020-EURO-6-2015, No 693849
@@ -20,8 +23,11 @@ permalink: /research/
 
 ## National Programs
 
+### Active
 - **AIGOV** (2022–09/2025) - Ethical AI in Public Sector, ΕΛ.ΙΔ.Ε.Κ., No 2412
 - **eGovCollab** (2025) - Research and Technology Transfer for e-Government, University of Macedonia
+
+### Completed
 - **Εφαρμογή LLMs σε Κυβερνητικά Δεδομένα** (2024) - University of Macedonia, No 82239
 - **Προχωρημένες μέθοδοι βαθιάς μάθησης** (2024) - University of Macedonia, No 82211
 - **Χρήση ΤΝ στην Ηλεκτρονική Συμμετοχή** (2023) - University of Macedonia, No 82046
