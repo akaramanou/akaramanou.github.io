@@ -285,7 +285,6 @@ exclude:
   - docs/
 
 plugins:
-  - jekyll-paginate
   - jekyll-sitemap
 
 # Beautiful Jekyll / Dean Attali
