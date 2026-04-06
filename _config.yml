@@ -19,9 +19,9 @@ timezone: "Europe/Athens"
 
 navbar-links:
   Home: ""
-  Research: "research"
-  Projects: "research-projects"
-  About: "about"
+  Publications: "publications"
+  Projects: "research"
+  
 
 avatar: "/assets/img/avatar-icon.png"
 round-avatar: true
