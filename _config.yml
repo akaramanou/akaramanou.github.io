@@ -14,7 +14,7 @@ institution: "University of Macedonia"
 ###############################################
 
 navbar-links:
-  Home: ""
+  Home: "index"
   Publications: "papers"
   Research Projects: "projects"
 
