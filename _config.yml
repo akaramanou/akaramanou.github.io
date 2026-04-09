@@ -1,10 +1,10 @@
 # Jekyll Configuration for Research Website
 
 title: Your Research
-author: Your Name
+author: Areti Karamanou
 description: Research papers and projects
 baseurl: "" # Leave empty for root domain
-url: "https://yourname.com" # Update with your domain
+url: "akaramanou.github.io" # Update with your domain
 
 # Build settings
 theme: minima
