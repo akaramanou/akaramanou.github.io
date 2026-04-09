@@ -11,8 +11,8 @@ title: Home
     
     <!-- CTA Buttons -->
     <div class="cta-buttons">
-      <a href="/research" class="btn btn-primary">View My Research</a>
-      <a href="/research-projects" class="btn btn-secondary">Explore Projects</a>
+      <a href="/research" class="btn btn-primary">View My Publications</a>
+      <a href="/projects" class="btn btn-secondary">Explore Projects</a>
     </div>
 
     <!-- Research Areas -->
