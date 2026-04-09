@@ -10,57 +10,7 @@ permalink: /about/
 
 ## Professional Background
 
-Researcher and PhD Candidate in Information Systems with 14+ years of experience in research institutes (EKETA/ITI) and companies, as well as in higher education. I specialize in Open Government Data, Machine Learning, and Artificial Intelligence in Public Administration. I combine technical expertise with a deep understanding of governmental processes and citizen engagement.
-
-## Research Experience
-
-- **Current Position**: PhD Candidate, University of Macedonia
-- **Research Institute Experience**: EKETA/ITI (National Center for Research and Development)
-- **Teaching**: Lecturer in higher education institutions
-- **Domain Expertise**: 
-  - Open Government Data & Linked Data
-  - Large Language Models & AI
-  - Explainable Artificial Intelligence
-  - Machine Learning for Public Services
-  - E-Governance & Democratic Participation
-  - Data Quality & Interoperability
-
-## Publications & Research Output
-
-- **33 Publications**: International peer-reviewed journals and conference proceedings
-- **16 Research Projects**: European (Horizon Europe, H2020, FP7, Erasmus+) and national programs
-- **410+ Citations**: On Google Scholar
-- **Active Collaborations**: With researchers from Harvard Medical School, University of Edinburgh, and other international institutions
-
-## Key Research Projects
-
-- **AI4Deliberation** (2025-2027): AI for Democratic Deliberations - Horizon Europe
-- **AIGOV** (2022-2025): Ethical AI in Public Sector - Greek National Research Program
-- **OpenGovIntelligence** (2017-2019): Linked Open Statistical Data - H2020
-- Plus 13 additional European and national research programs
-
-## Research Focus Areas
-
-1. **Artificial Intelligence & LLMs**
-   - Evaluating LLM performance in specialized domains
-   - Explainable AI (XAI) techniques
-   - AI ethics in government
-
-2. **Open Government Data**
-   - Linked open statistical data
-   - Data interoperability and quality
-   - Public data intelligence
-
-3. **E-Governance & Democratic Participation**
-   - Citizen engagement platforms
-   - Electronic participation systems
-   - Government service innovation
-
-4. **Machine Learning Applications**
-   - Graph Neural Networks
-   - Time series forecasting
-   - Deep learning for public administration
-
+I am **Areti Karamanou**, a PhD Researcher based in Thessaloniki, Greece with 14+ years of experience in research institutes (EKETA/ITI) and companies, as well as in higher education. I specialize in Open Government Data, Machine Learning, and Artificial Intelligence in Public Administration. I combine technical expertise with a deep understanding of governmental processes and citizen engagement.
 
 ## Contact
 
