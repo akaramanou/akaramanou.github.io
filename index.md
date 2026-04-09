@@ -77,6 +77,7 @@ title:  Areti Karamanou
       <p>View active and completed research projects</p>
       <a href="/projects">Discover →</a>
     </div>
+    </div>
 </section>
 
 <style>
