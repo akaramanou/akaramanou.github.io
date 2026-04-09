@@ -7,8 +7,7 @@ title:  Areti Karamanou
   <div class="hero-content">
     <p class="tagline">PhD Researcher</p>
     <p class="intro">Welcome to my academic website. Here you can find information about my research, publications, and academic work.</p>
-    <p>I am a PhD Researcher based in Thessaloniki, Greece with 14+ years of experience in research institutes (EKETA/ITI) and companies, as well as in higher education. I specialize in Open Government Data,
-    Machine Learning, and Artificial Intelligence in Public Administration. I combine technical expertise with a deep understanding of governmental processes and citizen engagement.</p>
+    <p>I am a PhD Researcher based in Thessaloniki, Greece, with over 14 years of experience across research institutes (EKETA/ITI), industry, and higher education. My work focuses on Open Government Data, Machine Learning, and Artificial Intelligence in Public Administration, combining strong technical expertise with an in-depth understanding of governmental processes and citizen engagement. I have authored more than 30 publications in these fields and have actively contributed to over 15 European-funded and national research projects.</p>
     
     <!-- CTA Buttons -->
     <div class="cta-buttons">
