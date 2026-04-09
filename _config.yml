@@ -18,7 +18,7 @@ navbar-links:
   Publications: "papers"
   Research Projects: "projects"
 
-avatar: "/assets/img/avatar-icon.svg"
+avatar: "/assets/img/avatar.png"
 round-avatar: true
 
 ###############################################
