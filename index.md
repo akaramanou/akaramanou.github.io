@@ -19,9 +19,8 @@ title:  Areti Karamanou
     <div class="research-areas">
       <p class="areas-label">Research Focus:</p>
       <div class="area-tags">
-        <span class="tag">AI & LLMs</span>
+        <span class="tag">GenAI & LLMs</span>
         <span class="tag">Open Government Data</span>
-        <span class="tag">Linked Data</span>
         <span class="tag">Machine Learning</span>
       </div>
     </div>
