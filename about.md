@@ -61,17 +61,6 @@ Researcher and PhD Candidate in Information Systems with 14+ years of experience
    - Time series forecasting
    - Deep learning for public administration
 
-## Education
-
-- **PhD Candidate** in Information Systems, University of Macedonia, Thessaloniki, Greece
-- **Advanced Studies** in Information Systems and related areas
-- **Continuous Learning**: Training in AI, data science, and governance technologies
-
-## Professional Affiliations
-
-- University of Macedonia, Department of Applied Informatics
-- Research collaborator with international institutions
-- Member of scientific communities in AI, open data, and e-governance
 
 ## Contact
 
@@ -91,15 +80,6 @@ Researcher and PhD Candidate in Information Systems with 14+ years of experience
 
 </div>
 
-## Interests & Hobbies
-
-Beyond research, I'm passionate about:
-- Emerging technologies and their societal impact
-- Supporting open science and reproducible research
-- Mentoring students and early-career researchers
-- Connecting research with real-world government challenges
-
----
 
 <div class="about-footer">
   <p><strong>Open to collaboration</strong> on research projects involving AI, open data, and e-governance. Feel free to reach out!</p>
