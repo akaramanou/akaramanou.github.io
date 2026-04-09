@@ -3,8 +3,6 @@ layout: page
 title: Publications
 permalink: /papers/
 ---
-## Publications
-
 *⭐ indicates first-author publications*
 
 ### Journal Articles (Peer-Reviewed)
