@@ -17,7 +17,6 @@ navbar-links:
   Home: ""
   Publications: "papers"
   Research Projects: "projects"
-  About: "about"
 
 avatar: "/assets/img/avatar-icon.svg"
 round-avatar: true
