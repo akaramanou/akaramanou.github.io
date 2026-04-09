@@ -8,7 +8,7 @@ permalink: /papers/
 ### Journal Articles (Peer-Reviewed)
 
 #### 2026
-- Tarabanis, C., Khurshid, S., **Karamanou, A.,** Piperaki, R., Mavromatis, L. A., Hatzimemos, A., Tachmatzidis, D., Bakogiannis, C., Vassilikos, V., Ellinor, P. T., Jankelson, L., & Kalampokis, E. (2026). Cardiology knowledge assessment of retrieval-augmented open versus proprietary large language models. *PLOS Digital Health, 5*(3), e0001029. 
+- Tarabanis, C., Khurshid, S., **Karamanou, A.,** Piperaki, R., Mavromatis, L. A., Hatzimemos, A., Tachmatzidis, D., Bakogiannis, C., Vassilikos, V., Ellinor, P. T., Jankelson, L., & Kalampokis, E. (2026). [Cardiology knowledge assessment of retrieval-augmented open versus proprietary large language models](https://doi.org/10.1371/journal.pdig.0001029). *PLOS Digital Health, 5*(3), e0001029. 
 
 #### 2025
 - Laios, A., Quaranta, M., Tan, Y., **Karamanou, A.,** Theophilou, G., Thangavelu, A., De Jong, D., Broadhead, T., Koufman, A., Nugent, D., & Kalampokis, E. (2025). Measuring the empathetic intelligence of large language models in ovarian cancer queries. *BJOG: An International Journal of Obstetrics and Gynaecology, 132*, 101–101.
