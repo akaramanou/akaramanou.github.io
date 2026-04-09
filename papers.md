@@ -11,31 +11,31 @@ permalink: /papers/
 - Tarabanis, C., Khurshid, S., **Karamanou, A.,** Piperaki, R., Mavromatis, L. A., Hatzimemos, A., Tachmatzidis, D., Bakogiannis, C., Vassilikos, V., Ellinor, P. T., Jankelson, L., & Kalampokis, E. (2026). [Cardiology knowledge assessment of retrieval-augmented open versus proprietary large language models](https://doi.org/10.1371/journal.pdig.0001029). *PLOS Digital Health, 5*(3), e0001029. 
 
 #### 2025
-- Laios, A., Quaranta, M., Tan, Y., **Karamanou, A.,** Theophilou, G., Thangavelu, A., De Jong, D., Broadhead, T., Koufman, A., Nugent, D., & Kalampokis, E. (2025). Measuring the empathetic intelligence of large language models in ovarian cancer queries. *BJOG: An International Journal of Obstetrics and Gynaecology, 132*, 101–101.
+- Laios, A., Quaranta, M., Tan, Y., **Karamanou, A.,** Theophilou, G., Thangavelu, A., De Jong, D., Broadhead, T., Koufman, A., Nugent, D., & Kalampokis, E. (2025). [Measuring the empathetic intelligence of large language models in ovarian cancer queries](https://doi.org/10.1111/1471-0528.18309). *BJOG: An International Journal of Obstetrics and Gynaecology, 132*, 101–101.
 
 #### 2024
-- ⭐ **Karamanou, A.,** Brimos, P., Kalampokis, E., & Tarabanis, K. (2024). Explainable graph neural networks: An application to open statistics knowledge graphs for estimating house prices. *Technologies, 12*(8), 128.
+- ⭐ **Karamanou, A.,** Brimos, P., Kalampokis, E., & Tarabanis, K. (2024). [Explainable graph neural networks: An application to open statistics knowledge graphs for estimating house prices](https://doi.org/10.3390/technologies12080128). *Technologies, 12*(8), 128.
 
 #### 2023
-- Brimos, P., **Karamanou, A.,** Kalampokis, E., & Tarabanis, K. (2023). Graph neural networks and open government data to forecast traffic flow. *Information, 14*(4).
+- Brimos, P., **Karamanou, A.,** Kalampokis, E., & Tarabanis, K. (2023). [Graph neural networks and open government data to forecast traffic flow](https://doi.org/10.3390/info14040228). *Information, 14*(4).
 
-- ⭐ **Karamanou, A.,** Kalampokis, E., & Tarabanis, K. (2023). Integrated statistical indicators from Scottish linked open government data. *Data in Brief, 46*, 108779.
+- ⭐ **Karamanou, A.,** Kalampokis, E., & Tarabanis, K. (2023). [Integrated statistical indicators from Scottish linked open government data](https://doi.org/10.1016/j.dib.2022.108779). *Data in Brief, 46*, 108779.
 
 #### 2022
-- ⭐ **Karamanou, A.,** Kalampokis, E., & Tarabanis, K. (2022). Linked open government data to predict and explain house prices: The case of Scottish statistics portal. *Big Data Research, 30*, 100355.
+- ⭐ **Karamanou, A.,** Kalampokis, E., & Tarabanis, K. (2022). [Linked open government data to predict and explain house prices: The case of Scottish statistics portal](https://doi.org/10.1016/j.bdr.2022.100355). *Big Data Research, 30*, 100355.
 
-- ⭐ **Karamanou, A.,** Brimos, P., Kalampokis, E., & Tarabanis, K. (2022). Exploring the quality of dynamic open government data using statistical and machine learning methods. *Sensors, 22*(24), 9684.
+- ⭐ **Karamanou, A.,** Brimos, P., Kalampokis, E., & Tarabanis, K. (2022). [Exploring the quality of dynamic open government data using statistical and machine learning methods](https://doi.org/10.3390/s22249684). *Sensors, 22*(24), 9684.
 
-- Petsis, S., **Karamanou, A.,** Kalampokis, E., & Tarabanis, K. (2022). Forecasting and explaining emergency department visits in a public hospital. *Journal of Intelligent Information Systems, 59*, 479–500.
+- Petsis, S., **Karamanou, A.,** Kalampokis, E., & Tarabanis, K. (2022). [Forecasting and explaining emergency department visits in a public hospital](https://doi.org/10.1007/s10844-022-00716-6). *Journal of Intelligent Information Systems, 59*, 479–500.
 
 #### 2019
-- Kalampokis, E., Karamanou, A., & Tarabanis, K. (2019). Interoperability conflicts in linked open statistical data. *Information, 10*(8), 249.
+- Kalampokis, E., Karamanou, A., & Tarabanis, K. (2019). [Interoperability conflicts in linked open statistical data](https://doi.org/10.3390/info10080249). *Information, 10*(8), 249.
 
 #### 2017
-- Kalampokis, E., **Karamanou, A.,** Tambouris, E., & Tarabanis, K. (2017). On predicting election results using Twitter and linked open data: The case of the UK 2010 election. *Journal of Universal Computer Science, 23*(3), 280–303.
+- Kalampokis, E., **Karamanou, A.,** Tambouris, E., & Tarabanis, K. (2017). [On predicting election results using Twitter and linked open data: The case of the UK 2010 election](http://www.jucs.org/jucs_23_3/on_predicting_election_results). *Journal of Universal Computer Science, 23*(3), 280–303.
 
 #### 2016
-- Kalampokis, E., **Karamanou, A.,** Tambouris, E., & Tarabanis, K. (2016). Applying brand equity theory to understand consumer opinion in social media. *Journal of Universal Computer Science, 22*(5), 709–734.
+- Kalampokis, E., **Karamanou, A.,** Tambouris, E., & Tarabanis, K. (2016). [Applying brand equity theory to understand consumer opinion in social media](http://www.jucs.org/jucs_22_5/applying_brand_equity_theory). *Journal of Universal Computer Science, 22*(5), 709–734.
 
 ---
 
