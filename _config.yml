@@ -1,105 +1,18 @@
-###########################################################
-### Areti Karamanou - Research Website Config
-###########################################################
+# Jekyll Configuration for Research Website
 
-############################
-# --- Site Information --- #
-############################
+title: Your Research
+author: Your Name
+description: Research papers and projects
+baseurl: "" # Leave empty for root domain
+url: "https://yourname.com" # Update with your domain
 
-title: Areti Karamanou
-author: Areti Karamanou
-description: AI Researcher | Open Government Data | E-Governance | Linked Data
-baseurl: ""
-url: "https://akaramanou.github.io"
-timezone: "Europe/Athens"
-
-###############################################
-# --- Navigation --- #
-###############################################
-
-navbar-links:
-  About: "aboutme"
-  Publications: "publications"
-  Projects: "research"
-  
-
-avatar: "/assets/img/avatar-icon.png"
-round-avatar: true
-
-###############################################
-# --- Social Media Links --- #
-###############################################
-
-social-network-links:
-  email: "akarm@uom.edu.gr"
-  github: akaramanou
-  linkedin: areti-karamanou-b9117036
-  ORCID: 0000-0003-2357-9169
-  google-scholar: U_LlUDIAAAAJ&hl=el&oi=ao
-
-######################################
-# --- Modern Color Scheme --- #
-######################################
-
-# Trendy: Deep navy + bright blue accent
-page-col: "#FFFFFF"
-text-col: "#0F172A"
-link-col: "#3B82F6"
-hover-col: "#1E40AF"
-navbar-col: "#F8FAFC"
-navbar-text-col: "#0F172A"
-navbar-border-col: "#E2E8F0"
-footer-col: "#0F172A"
-footer-text-col: "#E2E8F0"
-footer-link-col: "#60A5FA"
-footer-hover-col: "#93C5FD"
-
-######################################
-# --- Build Settings --- #
-######################################
-
-markdown: kramdown
-highlighter: rouge
-permalink: /:year-:month-:day-:title/
-paginate: 10
-
-kramdown:
-  input: GFM
-  hard_wrap: false
-
-################
-# --- Plugins --- #
-################
-
+# Build settings
+theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-sitemap
 
-############################
-# --- Content Settings --- #
-############################
-
-excerpt_length: 75
-feed_show_excerpt: true
-feed_show_tags: true
-post_search: true
-title-on-all-pages: true
-edit_page_button: false
-navbar-var-length: false
-url-pretty: "akaramanou.github.io"
-
-share-links-active:
-  twitter: false
-  facebook: false
-  linkedin: true
-  vk: false
-  reddit: false
-
-############################
-# --- Collections --- #
-############################
-
+# Collections for organizing research
 collections:
   papers:
     output: true
@@ -108,15 +21,8 @@ collections:
     output: true
     permalink: /projects/:name/
 
-############################
-# --- Defaults --- #
-############################
-
+# Defaults
 defaults:
-  - scope:
-      path: ""
-    values:
-      layout: "page"
   - scope:
       path: ""
       type: "papers"
@@ -128,41 +34,12 @@ defaults:
     values:
       layout: "project"
 
-############################
-# --- Analytics --- #
-############################
-
-# Uncomment and add your analytics ID
-#gtag: "G-XXXXXXXXXX"
-
-############################
-# --- SEO & Metadata --- #
-############################
-
-date_format: "%B %-d, %Y"
-keywords: "AI, research, open data, e-governance, linked data, machine learning"
-
-
-site-css:
-  - "/assets/css/custom-styles.css"
-
-############################
-# --- Exclude Files --- #
-############################
-
+# Exclude from processing
 exclude:
   - .gemfile
-  - Gemfile
   - Gemfile.lock
   - node_modules
   - vendor/bundle/
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
-  - LICENSE
-  - README.md
-  - CHANGELOG.md
-  - .gitignore
-  - .git/
-
-###########################################################
