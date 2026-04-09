@@ -12,8 +12,8 @@ title:  Areti Karamanou
     
     <!-- CTA Buttons -->
     <div class="cta-buttons">
-      <a href="/research" class="btn btn-primary">View My Publications</a>
-      <a href="/projects" class="btn btn-secondary">Explore Projects</a>
+      <a href="/papers" class="btn btn-primary">View My Publications</a>
+      <a href="/projects" class="btn btn-secondary">Explore My Projects</a>
     </div>
 
     <!-- Research Areas -->
