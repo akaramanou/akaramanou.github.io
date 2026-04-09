@@ -1,11 +1,10 @@
 ---
 layout: home
-title: Home
+title:  Areti Karamanou
 ---
 
 <div class="hero-section">
   <div class="hero-content">
-    <h1>Areti Karamanou</h1>
     <p class="tagline">PhD Researcher</p>
     <p class="intro">Welcome to my academic website. Here you can find information about my research, publications, and academic work.</p>
     
