@@ -67,23 +67,18 @@ title:  Areti Karamanou
   
   <div class="links-grid">
     <div class="link-card">
-      <h3>Research</h3>
+      <h3>Publications</h3>
       <p>Browse 11 journal articles and 22 conference papers</p>
-      <a href="/research">Explore →</a>
+      <a href="/papers">Explore →</a>
     </div>
 
     <div class="link-card">
-      <h3>Projects</h3>
+      <h3>Research Projects</h3>
       <p>View active and completed research projects</p>
-      <a href="/research-projects">Discover →</a>
+      <a href="/projects">Discover →</a>
     </div>
 
-    <div class="link-card">
-      <h3>About</h3>
-      <p>Learn more about your background and expertise</p>
-      <a href="/about">Learn →</a>
-    </div>
-  </div>
+  
 </section>
 
 <style>
