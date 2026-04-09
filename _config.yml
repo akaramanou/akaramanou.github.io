@@ -117,7 +117,8 @@ defaults:
 ############################
 
 # Uncomment and add your analytics ID
-#gtag: "G-XXXXXXXXXX"
+gtag: "G-D600Y9XFB0"
+
 
 ############################
 # --- SEO & Metadata --- #
