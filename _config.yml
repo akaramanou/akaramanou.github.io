@@ -15,8 +15,8 @@ institution: "University of Macedonia"
 
 navbar-links:
   Home: ""
-  Research: "research"
-  Projects: "research-projects"
+  Publications: "Publications"
+  Projects: "Projects"
   About: "about"
 
 avatar: "/assets/img/avatar-icon.svg"
