@@ -20,7 +20,6 @@ title:  Areti Karamanou
       <div class="area-tags">
         <span class="tag">AI & LLMs</span>
         <span class="tag">Open Government Data</span>
-        <span class="tag">E-Governance</span>
         <span class="tag">Linked Data</span>
         <span class="tag">Machine Learning</span>
       </div>
