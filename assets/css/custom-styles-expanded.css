@@ -1,0 +1,397 @@
+/* Modern Trendy Color & Responsive Width Overrides for Areti Karamanou's Research Website */
+
+:root {
+  --primary-color: #0F172A;
+  --secondary-color: #3B82F6;
+  --accent-color: #1E40AF;
+  --light-bg: #F8FAFC;
+  --border-color: #E2E8F0;
+}
+
+/* ===== RESPONSIVE WIDTH SETTINGS ===== */
+
+html, body {
+  background-color: #FFFFFF;
+  color: #0F172A;
+  width: 100%;
+}
+
+/* Container width adjustments */
+.container,
+.container-lg,
+.container-fluid {
+  max-width: 95% !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  padding-left: 15px !important;
+  padding-right: 15px !important;
+}
+
+/* Tablet and larger screens */
+@media (min-width: 768px) {
+  .container,
+  .container-lg,
+  .container-fluid {
+    max-width: 90% !important;
+    padding-left: 30px !important;
+    padding-right: 30px !important;
+  }
+}
+
+/* Desktop screens */
+@media (min-width: 992px) {
+  .container,
+  .container-lg,
+  .container-fluid {
+    max-width: 1100px !important;
+    padding-left: 40px !important;
+    padding-right: 40px !important;
+  }
+}
+
+/* Large desktop screens */
+@media (min-width: 1200px) {
+  .container,
+  .container-lg,
+  .container-fluid {
+    max-width: 1200px !important;
+    padding-left: 50px !important;
+    padding-right: 50px !important;
+  }
+}
+
+/* Main content area */
+main {
+  max-width: 100% !important;
+}
+
+.page-heading,
+.post-heading,
+.masthead-area {
+  width: 100% !important;
+  padding-left: 15px !important;
+  padding-right: 15px !important;
+}
+
+@media (min-width: 768px) {
+  .page-heading,
+  .post-heading,
+  .masthead-area {
+    padding-left: 30px !important;
+    padding-right: 30px !important;
+  }
+}
+
+@media (min-width: 1024px) {
+  .page-heading,
+  .post-heading,
+  .masthead-area {
+    padding-left: 50px !important;
+    padding-right: 50px !important;
+  }
+}
+
+/* ===== LINKS ===== */
+
+a {
+  color: #3B82F6;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #1E40AF;
+  text-decoration: underline;
+}
+
+/* ===== NAVIGATION BAR ===== */
+
+.navbar {
+  background-color: #F8FAFC !important;
+  border-bottom: 2px solid #E2E8F0 !important;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+.navbar-brand {
+  color: #0F172A !important;
+  font-weight: 700;
+  font-size: 1.4rem;
+  transition: color 0.2s ease;
+}
+
+.navbar-brand:hover {
+  color: #3B82F6 !important;
+}
+
+.nav-link {
+  color: #0F172A !important;
+  font-weight: 600;
+  transition: all 0.2s ease;
+  position: relative;
+  text-transform: uppercase;
+  font-size: 0.9rem;
+  letter-spacing: 0.5px;
+}
+
+.nav-link:hover,
+.nav-link.active {
+  color: #3B82F6 !important;
+}
+
+.nav-link::after {
+  content: '';
+  position: absolute;
+  bottom: -8px;
+  left: 0;
+  width: 0;
+  height: 2px;
+  background-color: #3B82F6;
+  transition: width 0.3s ease;
+}
+
+.nav-link:hover::after,
+.nav-link.active::after {
+  width: 100%;
+}
+
+/* ===== FOOTER ===== */
+
+footer {
+  background-color: #0F172A !important;
+  color: #E2E8F0 !important;
+  border-top: 2px solid #3B82F6;
+}
+
+footer a {
+  color: #60A5FA;
+  transition: color 0.2s ease;
+}
+
+footer a:hover {
+  color: #93C5FD;
+}
+
+footer p {
+  color: #E2E8F0;
+}
+
+.footer-custom-links {
+  color: #E2E8F0;
+}
+
+.footer-custom-links a {
+  color: #60A5FA;
+  transition: all 0.2s ease;
+}
+
+.footer-custom-links a:hover {
+  color: #93C5FD;
+  transform: translateY(-2px);
+}
+
+/* Social Icons in Footer */
+.social-network-links {
+  display: flex;
+  gap: 1.5rem;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: 1.5rem 0;
+}
+
+.social-network-links a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  background-color: rgba(96, 165, 250, 0.1);
+  border-radius: 50%;
+  color: #60A5FA;
+  transition: all 0.2s ease;
+  font-size: 1.1rem;
+}
+
+.social-network-links a:hover {
+  background-color: #3B82F6;
+  color: #FFFFFF;
+  transform: translateY(-3px);
+  box-shadow: 0 4px 12px rgba(59, 130, 246, 0.3);
+}
+
+.footer-social {
+  padding: 1.5rem 0;
+}
+
+/* ===== HEADINGS ===== */
+
+h1, h2, h3, h4, h5, h6 {
+  color: #0F172A;
+  font-weight: 700;
+}
+
+h1 {
+  border-bottom: 3px solid #3B82F6;
+  padding-bottom: 0.5rem;
+}
+
+/* ===== PAGE HEADER ===== */
+
+.page-heading {
+  color: #0F172A;
+}
+
+/* ===== POST/PAGE CONTENT ===== */
+
+.post-preview {
+  border-bottom: 1px solid #E2E8F0;
+  padding: 1.5rem 0;
+}
+
+.post-preview:hover {
+  background-color: #F8FAFC;
+}
+
+.post-preview h2 {
+  color: #0F172A;
+}
+
+.post-preview .post-meta {
+  color: #64748B;
+}
+
+/* ===== BUTTONS ===== */
+
+.btn-primary {
+  background-color: #3B82F6 !important;
+  border-color: #3B82F6 !important;
+  color: white !important;
+  transition: all 0.2s ease;
+}
+
+.btn-primary:hover {
+  background-color: #1E40AF !important;
+  border-color: #1E40AF !important;
+}
+
+/* ===== CODE BLOCKS ===== */
+
+code {
+  background-color: #F8FAFC;
+  color: #0F172A;
+  border: 1px solid #E2E8F0;
+  border-radius: 4px;
+  padding: 2px 6px;
+}
+
+pre {
+  background-color: #F8FAFC;
+  border: 1px solid #E2E8F0;
+  border-radius: 6px;
+  color: #0F172A;
+}
+
+/* ===== BLOCKQUOTES ===== */
+
+blockquote {
+  border-left: 4px solid #3B82F6;
+  color: #475569;
+}
+
+/* ===== TABLES ===== */
+
+table {
+  border-collapse: collapse;
+}
+
+table td, table th {
+  border: 1px solid #E2E8F0;
+}
+
+table th {
+  background-color: #F8FAFC;
+  color: #0F172A;
+  font-weight: 700;
+}
+
+table tr:hover {
+  background-color: #F8FAFC;
+}
+
+/* ===== CONTENT SECTIONS ===== */
+
+.content {
+  color: #0F172A;
+  line-height: 1.7;
+}
+
+/* ===== RESEARCH/PUBLICATION LISTS ===== */
+
+.publication-list {
+  list-style: none;
+  padding: 0;
+}
+
+.publication-list li {
+  padding: 1rem 0;
+  border-bottom: 1px solid #E2E8F0;
+}
+
+.publication-list li:last-child {
+  border-bottom: none;
+}
+
+.publication-list a {
+  color: #3B82F6;
+  font-weight: 600;
+}
+
+.publication-list a:hover {
+  color: #1E40AF;
+  text-decoration: underline;
+}
+
+/* ===== ACTIVE LINKS ===== */
+
+.active {
+  color: #3B82F6 !important;
+  font-weight: 600;
+}
+
+/* ===== BADGES ===== */
+
+.badge {
+  background-color: #E0E7FF;
+  color: #1E40AF;
+  font-weight: 600;
+  border-radius: 20px;
+  padding: 0.25rem 0.75rem;
+}
+
+/* ===== RESPONSIVE DESIGN ===== */
+
+@media (max-width: 768px) {
+  .navbar {
+    border-bottom: 1px solid #E2E8F0;
+  }
+
+  h1 {
+    font-size: 1.75rem;
+  }
+
+  .page-heading h1 {
+    font-size: 2rem;
+  }
+  
+  .container,
+  .container-lg,
+  .container-fluid {
+    max-width: 100% !important;
+  }
+}
+
+/* ===== PRINT STYLES ===== */
+
+@media print {
+  .navbar, footer {
+    display: none;
+  }
+}
