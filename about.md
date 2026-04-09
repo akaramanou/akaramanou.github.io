@@ -30,11 +30,6 @@ I am **Areti Karamanou**, a PhD Researcher based in Thessaloniki, Greece with 14
 
 </div>
 
-
-<div class="about-footer">
-  <p><strong>Open to collaboration</strong> on research projects involving AI, open data, and e-governance. Feel free to reach out!</p>
-</div>
-
 <style>
 .about-hero {
   text-align: center;
