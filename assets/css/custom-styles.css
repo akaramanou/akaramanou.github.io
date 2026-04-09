@@ -28,31 +28,57 @@ a:hover {
 /* Navigation Bar */
 .navbar {
   background-color: #F8FAFC !important;
-  border-bottom: 1px solid #E2E8F0 !important;
-  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+  border-bottom: 2px solid #E2E8F0 !important;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
 }
 
 .navbar-brand {
   color: #0F172A !important;
   font-weight: 700;
   font-size: 1.4rem;
+  transition: color 0.2s ease;
+}
+
+.navbar-brand:hover {
+  color: #3B82F6 !important;
 }
 
 .nav-link {
   color: #0F172A !important;
-  font-weight: 500;
-  transition: color 0.2s ease;
+  font-weight: 600;
+  transition: all 0.2s ease;
+  position: relative;
+  text-transform: uppercase;
+  font-size: 0.9rem;
+  letter-spacing: 0.5px;
 }
 
-.nav-link:hover {
+.nav-link:hover,
+.nav-link.active {
   color: #3B82F6 !important;
+}
+
+.nav-link::after {
+  content: '';
+  position: absolute;
+  bottom: -8px;
+  left: 0;
+  width: 0;
+  height: 2px;
+  background-color: #3B82F6;
+  transition: width 0.3s ease;
+}
+
+.nav-link:hover::after,
+.nav-link.active::after {
+  width: 100%;
 }
 
 /* Footer */
 footer {
   background-color: #0F172A !important;
   color: #E2E8F0 !important;
-  border-top: 1px solid #E2E8F0;
+  border-top: 2px solid #3B82F6;
 }
 
 footer a {
@@ -74,6 +100,45 @@ footer p {
 
 .footer-custom-links a {
   color: #60A5FA;
+  transition: all 0.2s ease;
+}
+
+.footer-custom-links a:hover {
+  color: #93C5FD;
+  transform: translateY(-2px);
+}
+
+/* Social Icons in Footer */
+.social-network-links {
+  display: flex;
+  gap: 1.5rem;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: 1.5rem 0;
+}
+
+.social-network-links a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  background-color: rgba(96, 165, 250, 0.1);
+  border-radius: 50%;
+  color: #60A5FA;
+  transition: all 0.2s ease;
+  font-size: 1.1rem;
+}
+
+.social-network-links a:hover {
+  background-color: #3B82F6;
+  color: #FFFFFF;
+  transform: translateY(-3px);
+  box-shadow: 0 4px 12px rgba(59, 130, 246, 0.3);
+}
+
+.footer-social {
+  padding: 1.5rem 0;
 }
 
 /* Headings */
