@@ -1,18 +1,91 @@
-# Jekyll Configuration for Research Website
+# Jekyll Configuration for Areti Karamanou's Research Website
 
-title: Your Research
+title: Areti Karamanou
 author: Areti Karamanou
-description: Research papers and projects
-baseurl: "" # Leave empty for root domain
-url: "akaramanou.github.io" # Update with your domain
+description: PhD Researcher in AI, Open Government Data & E-Governance | University of Macedonia
+baseurl: ""
+url: "https://akaramanou.github.io"
+timezone: "Europe/Athens"
+location: "Thessaloniki, Greece"
+institution: "University of Macedonia"
 
-# Build settings
-theme: minima
+###############################################
+# --- Navigation --- #
+###############################################
+
+navbar-links:
+  Home: ""
+  Research: "research"
+  Projects: "research-projects"
+  About: "about"
+
+avatar: "/assets/img/avatar-icon.svg"
+round-avatar: true
+
+###############################################
+# --- Social Media Links --- #
+###############################################
+
+social-network-links:
+  email: "akarm@uom.edu.gr"
+  github: akaramanou
+  linkedin: areti-karamanou-b9117036
+  ORCID: 0000-0003-2357-9169
+  google-scholar: U_LlUDIAAAAJ&hl=el&oi=ao
+
+######################################
+# --- Custom CSS --- #
+######################################
+
+site-css:
+  - "/assets/css/custom-styles-expanded.css"
+
+######################################
+# --- Build Settings --- #
+######################################
+
+markdown: kramdown
+highlighter: rouge
+permalink: /:year-:month-:day-:title/
+paginate: 10
+
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+################
+# --- Plugins --- #
+################
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-sitemap
 
-# Collections for organizing research
+############################
+# --- Content Settings --- #
+############################
+
+excerpt_length: 75
+feed_show_excerpt: true
+feed_show_tags: true
+post_search: true
+title-on-all-pages: true
+edit_page_button: false
+navbar-var-length: false
+url-pretty: "akaramanou.github.io"
+
+share-links-active:
+  twitter: false
+  facebook: false
+  linkedin: true
+  vk: false
+  reddit: false
+
+############################
+# --- Collections --- #
+############################
+
 collections:
   papers:
     output: true
@@ -21,8 +94,15 @@ collections:
     output: true
     permalink: /projects/:name/
 
-# Defaults
+############################
+# --- Defaults --- #
+############################
+
 defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "page"
   - scope:
       path: ""
       type: "papers"
@@ -34,12 +114,35 @@ defaults:
     values:
       layout: "project"
 
-# Exclude from processing
+############################
+# --- Analytics --- #
+############################
+
+# Uncomment and add your analytics ID
+#gtag: "G-XXXXXXXXXX"
+
+############################
+# --- SEO & Metadata --- #
+############################
+
+date_format: "%B %-d, %Y"
+keywords: "AI, research, open data, e-governance, linked data, machine learning"
+
+############################
+# --- Exclude Files --- #
+############################
+
 exclude:
   - .gemfile
+  - Gemfile
   - Gemfile.lock
   - node_modules
   - vendor/bundle/
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+  - LICENSE
+  - README.md
+  - CHANGELOG.md
+  - .gitignore
+  - .git/
