@@ -1,0 +1,147 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Color scheme */
+:root {
+  --primary-color: #2c3e50;
+  --secondary-color: #3498db;
+  --accent-color: #e74c3c;
+  --light-bg: #ecf0f1;
+  --border-color: #bdc3c7;
+}
+
+/* Typography */
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  line-height: 1.6;
+  color: var(--primary-color);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 600;
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+}
+
+h1 {
+  border-bottom: 3px solid var(--secondary-color);
+  padding-bottom: 0.3em;
+}
+
+/* Links */
+a {
+  color: var(--secondary-color);
+  text-decoration: none;
+  transition: color 0.2s;
+}
+
+a:hover {
+  color: var(--accent-color);
+  text-decoration: underline;
+}
+
+/* Navigation */
+.site-header {
+  border-top: 5px solid var(--secondary-color);
+}
+
+.site-nav .page-link {
+  color: var(--primary-color);
+  font-weight: 500;
+}
+
+.site-nav .page-link.active {
+  color: var(--secondary-color);
+}
+
+/* Home page */
+.home h2 {
+  margin-top: 2em;
+  color: var(--secondary-color);
+  border-left: 4px solid var(--secondary-color);
+  padding-left: 1em;
+}
+
+/* Paper and Project lists */
+.paper, .project {
+  margin-bottom: 2em;
+  padding: 1em;
+  border-left: 4px solid var(--secondary-color);
+}
+
+.paper header, .project header {
+  margin-bottom: 1.5em;
+}
+
+.paper .meta, .project .meta {
+  font-size: 0.95em;
+  color: #666;
+  line-height: 1.8;
+}
+
+.paper .meta strong, .project .meta strong {
+  color: var(--primary-color);
+}
+
+/* Paper links */
+.paper-links, .project-links {
+  margin-top: 1.5em;
+  padding-top: 1em;
+  border-top: 1px solid var(--border-color);
+}
+
+.btn {
+  display: inline-block;
+  padding: 0.5em 1em;
+  background-color: var(--secondary-color);
+  color: white !important;
+  border-radius: 4px;
+  text-decoration: none !important;
+  font-weight: 500;
+  transition: background-color 0.2s;
+}
+
+.btn:hover {
+  background-color: var(--accent-color);
+  text-decoration: none !important;
+}
+
+/* Details/BibTeX */
+details {
+  margin-top: 1em;
+  padding: 1em;
+  background-color: var(--light-bg);
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+details summary {
+  font-weight: 600;
+  color: var(--primary-color);
+}
+
+details pre {
+  background-color: #fff;
+  border: 1px solid var(--border-color);
+  margin-top: 0.5em;
+  overflow-x: auto;
+}
+
+/* Footer */
+.site-footer {
+  border-top: 1px solid var(--border-color);
+  margin-top: 3em;
+}
+
+/* Responsive */
+@media (max-width: 600px) {
+  .paper, .project {
+    padding: 0.5em;
+  }
+
+  h1 {
+    font-size: 1.5em;
+  }
+}
