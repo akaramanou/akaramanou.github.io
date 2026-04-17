@@ -36,26 +36,26 @@ title:  Areti Karamanou
       <h3>Cardiology Knowledge Assessment of Retrieval-Augmented Open versus Proprietary Large Language Models</h3>
       <p class="publication-meta">PLOS Digital Health, 2026 | IF: 7.7</p>
       <p class="publication-desc">Evaluating the performance of open-source and proprietary LLMs in medical knowledge retrieval and cardiology applications.</p>
-      <a href="/research" class="read-more">View all publications →</a>
+      <a href="/papers" class="read-more">View all publications →</a>
     </div>
 
     <div class="featured-item">
       <h3>Explainable Graph Neural Networks: An Application to Open Statistics Knowledge Graphs for Estimating House Prices</h3>
       <p class="publication-meta">Technologies, 2024 | IF: 4.2</p>
       <p class="publication-desc">Applying explainable AI techniques to linked open data for predictive modeling and interpretable results.</p>
-      <a href="/research" class="read-more">View all publications →</a>
+      <a href="/papers" class="read-more">View all publications →</a>
     </div>
 
     <div class="featured-item">
       <h3>Graph Neural Networks and Open Government Data to Forecast Traffic Flow</h3>
       <p class="publication-meta">Information, 2023 | IF: 2.4</p>
       <p class="publication-desc">Leveraging public data and deep learning to improve transportation forecasting and planning.</p>
-      <a href="/research" class="read-more">View all publications →</a>
+      <a href="/papers" class="read-more">View all publications →</a>
     </div>
   </div>
 
   <div class="view-all-link">
-    <a href="/research" class="btn btn-outline">View All Publications (33 total)</a>
+    <a href="/papers" class="btn btn-outline">View All Publications (33 total)</a>
   </div>
 </section>
 
