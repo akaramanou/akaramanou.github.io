@@ -55,7 +55,7 @@ title:  Areti Karamanou
   </div>
 
   <div class="view-all-link">
-    <a href="/papers" class="btn btn-outline">View All Publications (33 total)</a>
+    <a href="/papers" class="btn btn-outline">View All Publications (36 total)</a>
   </div>
 </section>
 
