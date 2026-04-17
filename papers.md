@@ -5,7 +5,7 @@ permalink: /papers/
 ---
 *⭐ indicates first-author publications*
 
-### Journal Articles (Peer-Reviewed)
+### Journal Articles
 
 #### 2026
 - Tarabanis, C., Khurshid, S., **Karamanou, A.,** Piperaki, R., Mavromatis, L. A., Hatzimemos, A., Tachmatzidis, D., Bakogiannis, C., Vassilikos, V., Ellinor, P. T., Jankelson, L., & Kalampokis, E. (2026). [Cardiology knowledge assessment of retrieval-augmented open versus proprietary large language models](https://doi.org/10.1371/journal.pdig.0001029). *PLOS Digital Health, 5*(3), e0001029. 
@@ -39,9 +39,11 @@ permalink: /papers/
 
 ---
 
-### Conference Papers (Peer-Reviewed & Proceedings)
+### Conference Papers
 
 #### 2026
+- Promikyridis, R., Ouzounidis, K., Zeginis, D., Tambouris, E., **Karamanou, A.,** Kalampokis, E., Tarabanis, K., Johannessen, M., & Berntzen, L. (2026). [From Documents to Data: Rethinking Public Service Delivery in the Greek Public Administration](https://doi.org/10.1007/978-3-032-18487-0_1). In: Rupino da Cunha, P., Themistocleous, M. (eds) Information Systems. EMCIS 2025. Lecture Notes in Business Information Processing, vol 573. Springer, Cham.
+
 - Tambouris, E., Promikyridis, R., Patsouris, C. F., Zeginis, D.,**Karamanou, A.,** Kalampokis, E., Tarabanis, K., Johannessen, M., & Berntzen, L. (2026). [AI-driven dialogue systems for personalized information provision in eGovernment: The case of MITOS dialogues](https://doi.org/10.1007/978-3-032-10824-1_13). In *Proceedings of NiDS 2025* (pp. 171–182). Springer.
 
 #### 2025
