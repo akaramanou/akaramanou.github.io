@@ -66,7 +66,7 @@ permalink: /papers/
 - Brimos, P., **Karamanou, A.,** Kalampokis, E., & Tarabanis, K. (2023). [Traffic flow prediction with Swiss open data](https://doi.org/10.1007/978-3-031-41138-0_20). In *EGOV 2023*. Springer.
 
 #### 2022
-- ⭐**Karamanou, A.,**Brimos, P., Kalampokis, E., & Tarabanis, K. (2022). [Exploring the quality of dynamic open government data for data intelligence applications](https://doi.org/10.1145/3575879.3575974). In *PCI 2022* (pp. 102–109). ACM.
+- ⭐**Karamanou, A.,** Brimos, P., Kalampokis, E., & Tarabanis, K. (2022). [Exploring the quality of dynamic open government data for data intelligence applications](https://doi.org/10.1145/3575879.3575974). In *PCI 2022* (pp. 102–109). ACM.
 
 #### 2021
 - Kalampokis, E., **Karamanou, A.,** & Tarabanis, K. (2021). [Applying explainable artificial intelligence techniques on linked open government data](https://doi.org/10.1007/978-3-030-84789-0_18). In *EGOV 2021* (pp. 247–258). Springer.
