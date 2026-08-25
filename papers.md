@@ -42,6 +42,8 @@ permalink: /papers/
 ### Conference Papers
 
 #### 2026
+- Fitsilis, F., Kalampokis, E., **Karamanou, A.,** Mourtias, M., Chrysikopoulos, A., Tarabanis, K. (2026) Large Language Models in Regulatory Impact Assessment: Evidence from the Greek Legislative Process IFIP EGOV-CeDEM-ePart2026 (EGOV2026), Springer, LNCS [Accepted].
+  
 - Promikyridis, R., Ouzounidis, K., Zeginis, D., Tambouris, E., **Karamanou, A.,** Kalampokis, E., Tarabanis, K., Johannessen, M., & Berntzen, L. (2026). [From Documents to Data: Rethinking Public Service Delivery in the Greek Public Administration](https://doi.org/10.1007/978-3-032-18487-0_1). In: Rupino da Cunha, P., Themistocleous, M. (eds) Information Systems. EMCIS 2025. Lecture Notes in Business Information Processing, vol 573. Springer, Cham.
 
 - Tambouris, E., Promikyridis, R., Patsouris, C. F., Zeginis, D.,**Karamanou, A.,** Kalampokis, E., Tarabanis, K., Johannessen, M., & Berntzen, L. (2026). [AI-driven dialogue systems for personalized information provision in eGovernment: The case of MITOS dialogues](https://doi.org/10.1007/978-3-032-10824-1_13). In *Proceedings of NiDS 2025* (pp. 171–182). Springer.
