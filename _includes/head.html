@@ -13,7 +13,9 @@
   {% endcapture %}
 
   {% capture title %}
-    {%- if site.title and site.title-on-all-pages and (site.title != pagetitle) -%}
+    {%- if page.share-title -%}
+      {{ pagetitle }}
+    {%- elsif site.title and site.title-on-all-pages and (site.title != pagetitle) -%}
       {{ pagetitle }} | {{ site.title }}
     {%- else -%}
       {{ pagetitle }}
@@ -48,6 +50,10 @@
 
   {% if site.mobile-theme-col %}
   <meta name="theme-color" content="{{ site.mobile-theme-col }}">
+  {% endif %}
+
+  {% if site.google-site-verification %}
+  <meta name="google-site-verification" content="{{ site.google-site-verification }}">
   {% endif %}
 
   {% if site.keywords %}

@@ -2,6 +2,7 @@
 layout: page
 title: Publications
 permalink: /papers/
+share-description: "Journal articles and conference papers by Areti Karamanou on large language models, explainable AI, graph neural networks and open government data."
 ---
 *⭐ indicates first-author publications*
 

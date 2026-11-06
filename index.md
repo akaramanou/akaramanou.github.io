@@ -1,10 +1,15 @@
 ---
 layout: home
 title:  Areti Karamanou
+share-title: "Areti Karamanou (Αρετή Καραμάνου) – AI & Open Government Data Researcher"
+share-description: "Areti Karamanou (Αρετή Καραμάνου) is a PhD researcher at the University of Macedonia, Thessaloniki, working on AI, LLMs and Open Government Data."
+head-extra:
+  - person-schema.html
 ---
 
 <div class="hero-section">
   <div class="hero-content">
+    <p class="name-el" lang="el">Αρετή Καραμάνου</p>
     <p class="tagline">PhD Researcher</p>
     <p class="intro">Welcome to my personal website. Here you can find information about my research, publications, and academic work.</p>
     <p>I am a PhD Researcher based in Thessaloniki, Greece, with over 14 years of experience across research institutes (EKETA/ITI), industry, and higher education. My work focuses on Open Government Data, Machine Learning, and Artificial Intelligence in Public Administration, combining strong technical expertise with an in-depth understanding of governmental processes and citizen engagement. I have authored more than 35 publications in these fields and have actively contributed to over 15 European-funded and national research projects.</p>
@@ -94,6 +99,12 @@ title:  Areti Karamanou
   border-bottom: 3px solid #3B82F6;
   padding-bottom: 1rem;
   display: inline-block;
+}
+
+.name-el {
+  font-size: 1.15rem;
+  color: #475569;
+  margin-bottom: 0.25rem;
 }
 
 .tagline {

@@ -2,6 +2,7 @@
 layout: page
 title: Research Projects
 permalink: /projects/
+share-description: "European and national research projects of Areti Karamanou on AI in public administration, e-government and open data, incl. AI4Deliberation and inGov."
 ---
 
 ## European Programs

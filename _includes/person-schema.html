@@ -1,0 +1,34 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": {{ site.author | jsonify }},
+  "alternateName": "Αρετή Καραμάνου",
+  "url": {{ "/" | absolute_url | jsonify }},
+  "image": {{ site.avatar | absolute_url | jsonify }},
+  "jobTitle": "PhD Researcher",
+  "affiliation": {
+    "@type": "CollegeOrUniversity",
+    "name": "University of Macedonia",
+    "url": "https://www.uom.gr"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Thessaloniki",
+    "addressCountry": "GR"
+  },
+  "knowsAbout": [
+    "Artificial Intelligence",
+    "Large Language Models",
+    "Open Government Data",
+    "Machine Learning",
+    "E-Government"
+  ],
+  "sameAs": [
+    "https://orcid.org/{{ site.social-network-links.ORCID }}",
+    "https://scholar.google.com/citations?user=U_LlUDIAAAAJ",
+    "https://www.linkedin.com/in/{{ site.social-network-links.linkedin }}",
+    "https://github.com/{{ site.social-network-links.github }}"
+  ]
+}
+</script>

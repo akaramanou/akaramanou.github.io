@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+share-description: "About Areti Karamanou (Αρετή Καραμάνου), PhD researcher in AI and Open Government Data at the University of Macedonia, Thessaloniki. Contact and profiles."
 ---
 
 <div class="about-hero">
