@@ -14,6 +14,7 @@ institution: "University of Macedonia"
 ###############################################
 
 navbar-links:
+  About: "about"
   Publications: "papers"
   Research Projects: "projects"
 
@@ -124,6 +125,7 @@ gtag: "G-D600Y9XFB0"
 # --- SEO & Metadata --- #
 ############################
 
+google-site-verification: "JIQcPV49TfAqDWmvOWr_-bNafd3n9ry7Pj8TX3QhRUo"
 date_format: "%B %-d, %Y"
 keywords: "AI, research, open data, e-governance, linked data, machine learning"
 
